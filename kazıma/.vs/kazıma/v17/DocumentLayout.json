@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Cansuk\\aqdrive\\Belgeler\\GitHub\\WebScraping\\kaz\u0131ma\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B0551BBC-F3A0-4215-8B33-FE30C757F8D7}|kaz\u0131ma\\kaz\u0131ma.csproj|c:\\users\\cansuk\\aqdrive\\belgeler\\github\\webscraping\\kaz\u0131ma\\kaz\u0131ma\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B0551BBC-F3A0-4215-8B33-FE30C757F8D7}|kaz\u0131ma\\kaz\u0131ma.csproj|solutionrelative:kaz\u0131ma\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Cansuk\\aqdrive\\Belgeler\\GitHub\\WebScraping\\kaz\u0131ma\\kaz\u0131ma\\Program.cs",
+              "RelativeDocumentMoniker": "kaz\u0131ma\\Program.cs",
+              "ToolTip": "C:\\Users\\Cansuk\\aqdrive\\Belgeler\\GitHub\\WebScraping\\kaz\u0131ma\\kaz\u0131ma\\Program.cs",
+              "RelativeToolTip": "kaz\u0131ma\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAA9AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-25T17:32:48.328Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
